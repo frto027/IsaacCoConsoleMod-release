@@ -2,6 +2,8 @@
 
 [English version](Readme.en.md)
 
+[在这里下载](https://github.com/frto027/IsaacCoConsoleMod-release/releases/latest)
+
 仅适配游戏版本1.9.7.12，游戏版本更新后将失效。此模组不承诺后续更新。
 
 该插件仅在以下条件下工作：
