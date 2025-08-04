@@ -4,7 +4,7 @@ Only compatible with game version 1.9.7.12. The mod will become invalid after an
 
 This mod only works under the following conditions:
 
-1. There are more than one player in the room.
+1. There are **more** than one player in the room.
 2. All players in the room must type "cmd ok" to allow you use the mod.
 
 If there is (rarely) a new version, it may include security updates. In this case, you should update (or stop use the old mod) to avoid being hacked. The mod will send its version number to everyone in the room chat when you first use it after you start the game. If you see someone with a newer version, you should update.
