@@ -2,12 +2,12 @@
 
 Only compatible with game version 1.9.7.12. The mod will become invalid after any game update. There is no commitment to future updates.
 
-This plugin only works under the following conditions:
+This mod only works under the following conditions:
 
 1. There are more than one player in the room.
 2. All players in the room must type "cmd ok" to allow you use the mod.
 
-If there is (rarely) a new version, it may include security updates. In this case, you should update (or stop use the old plugin) to avoid being hacked. The plugin will send its version number to everyone in the room chat when you first use it after you start the game. If you see someone with a newer version, you should update.
+If there is (rarely) a new version, it may include security updates. In this case, you should update (or stop use the old mod) to avoid being hacked. The mod will send its version number to everyone in the room chat when you first use it after you start the game. If you see someone with a newer version, you should update.
 
 ## Installation
 
@@ -15,7 +15,7 @@ Copy `userenv.dll` to your game directory (the directory where `isaac-ng.exe` is
 
 ## "cmd ok"
 
-Type "cmd ok" in the chat to agree use of the mod, and "cmd no" to disagree it. The plugin will automatically record each player’s agreement status with their steam ID, so you don’t need to re-agree when switching rooms. Console commands can only be used if all players in the room (including yourself) have agreed to use the mod. If you join a game in middle progress, other players also need to send "cmd ok" to let your mod knows, then you can send commands.
+Type "cmd ok" in the chat to agree use of the mod, and "cmd no" to disagree it. The mod will automatically record each player’s agreement status with their steam ID, so you don’t need to re-agree when switching rooms. Console commands can only be used if all players in the room (including yourself) have agreed to use the mod. If you join a game in middle progress, other players also need to send "cmd ok" to let your mod knows, then you can send commands.
 
 ## Compatibility
 
@@ -34,7 +34,7 @@ Send "cmd <command>" in the chatbox to execute a command. For example, "cmd spaw
 Known means these issues will not be fixed.
 
 - Only one command per frame; do not send multiple commands or have multiple player use commands at the same time, as this may cause desync or disconnects.
-- The plugin does not handle packet loss; any packet loss will inevitably cause desync or disconnects.
+- The mod does not handle packet loss; any packet loss will inevitably cause desync or disconnects.
 - Console output is not displayed.
 - The mod does not affect command history; the `repeat` command will not work.
 
