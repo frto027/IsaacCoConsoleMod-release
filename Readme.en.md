@@ -23,7 +23,7 @@ All players in the room **must** patch the mod. Otherwise, the game will freeze 
 
 ## Console Commands
 
-Send "cmd <command>" in the chatbox to execute a command. For example, "cmd spawn 5.100". Some commands (such as `giveitem` that attached to a specific player) may cause the game to desync. Do not use commands in the room menu, only use them in-game.
+Send `cmd <command>` in the chatbox to execute a command. For example, `cmd spawn 5.100`. Some commands (such as `giveitem` that attached to a specific player) may cause the game to desync. Do not use commands in the room menu, only use them in-game.
 
 **You should understand that any game consequences caused by console commands are not bugs. Do not report these issues to Nicalis unless you can prove they occur during normal gameplay, or their fix would benefit Nicalis.**
 
